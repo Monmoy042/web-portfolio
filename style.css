@@ -1,0 +1,136 @@
+body {
+  font-family: 'Bebas Neue', cursive;
+  margin: 0;
+}
+.menu-bar {
+  list-style: none;
+  width: 40%;
+  float: right;
+}
+.menu-bar ul {
+  list-style: none;
+}
+.menu-bar ul li {
+  display: inline-block;
+}
+.menu-bar ul li a {
+  text-decoration: none;
+  padding: 10px;
+  font-family: Roboto;
+  font-weight: 500;
+  color: #535353;
+}
+.half-area {
+  font-size: 50px;
+  width: 45%;
+  padding-left: 2px;
+  margin-left: 2px;
+  float: left;
+  padding-bottom: 20px;
+}
+.half-area p {
+  font-size: 16px;
+  font-family: Roboto;
+  font-weight: 400;
+}
+.half-area img {
+  width: 80%;
+}
+.color-highlight {
+  color: #4f526d;
+}
+.text-highlight {
+  color: #fa937a;
+}
+.hire-button {
+  color: #fff;
+  background-color: tomato;
+  width: 170px;
+  height: 30px;
+  text-decoration: none;
+  padding: 2px;
+  border-radius: 6px;
+}
+.about-style {
+  color: #4f526d;
+}
+.work-area {
+  padding-top: 60px;
+  padding-bottom: 350px;
+  width: 100%;
+  background-color: #e5e5e5;
+  height: 300px;
+  overflow: hidden;
+}
+.work-area h1 {
+  text-align: center;
+  font-size: 48px;
+}
+.card {
+  width: 30%;
+  float: left;
+  background-color: #fff;
+  margin-left: 25px;
+  border-radius: 5px;
+}
+.card img {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+.card h3 {
+  font-family: Roboto;
+  font-style: bold;
+  text-align: left;
+  color: #363958;
+  font-size: 24px;
+  padding: 5px;
+}
+.card p {
+  padding: 5px;
+  font-family: Roboto;
+}
+.social-media-area {
+  width: 100%;
+}
+.social-media-area h1 {
+  text-align: center;
+  font-size: 48px;
+  color: #4f526d;
+}
+.social-media-area h3 {
+  font-family: Roboto;
+  font-style: bold;
+  text-align: center;
+  font-size: 24px;
+  padding: 5px;
+}
+.social-media-area h3 a {
+  text-decoration: none;
+  color: #363958;
+}
+.social-media-area h3 a:hover {
+  color: #fff;
+  background-color: tomato;
+  border-radius: 5px;
+}
+.social-media {
+  width: 30%;
+  float: left;
+  margin-left: 40px;
+}
+.social-media img {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+.copyright-area {
+  width: 100%;
+  overflow: hidden;
+  background-color: #e5e5e5;
+}
+.copyright-area p {
+  font-family: Roboto;
+  text-align: center;
+}
